@@ -8,6 +8,6 @@ Short Retro Racing Game made with Pygame
 
 ## Credits:
 
-Made by Christian Dueñas
+Made by Christian Dueñas: http://www.youtube.com/channel/UCB2mKxxXPK3X8SJkAc-db3A
 
 Inspired by OneloneCoder's C++ tutorial: https://www.youtube.com/watch?v=KkMZI5Jbf18
